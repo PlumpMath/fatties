@@ -28,3 +28,8 @@
   content: "";
   padding: 0;
 }
+
+.physics-container {
+  width: 500px;
+  height: 500px;
+}

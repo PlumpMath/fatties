@@ -29,7 +29,16 @@
   padding: 0;
 }
 
-.physics-container {
-  width: 500px;
-  height: 500px;
+#physics-container {
+  position: absolute;
+  top: 0; left: 0;
+  right: 0; bottom: 0;
+}
+
+.start-button {
+  position: absolute;
+  top: 1em:
+  right: 1em;
+  font-size: 3em;
+  color: pink;
 }
